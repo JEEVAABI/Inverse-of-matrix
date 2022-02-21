@@ -38,4 +38,4 @@ print(np.linalg.inv(l2))
 ![output](inver.png)
 
 ## RESULT:
-Thus python program to find inverse of matrix is done.
+Thus the program is written to find the inverse of a matrix.
